@@ -1,10 +1,15 @@
-alert("Hola esto es un mensaje externo");
-/*let usuario = prompt("nombre")
-let contraseña = nombre(prompt("contraseña"))
- if ((usuario === "lucho")&&(contraseña === "123")){
-    console.log( "bienvenido")
- }
- else{
-    console.log("U o C INCORRECTO")
- }*/
- 
+/*  
+ function irArriba(pxPantalla){
+   window.addEventListener('scroll', () => {
+    var scroll = document.documentElement.scrollTop;
+    var botonArriba = document.getElementById("botonArriba");
+
+    if(scroll>pxPantalla){
+       botonArriba.style.right = 20 + "px"
+    } else { botonArriba.style.right = -100 + "px"
+    }
+   })
+}
+
+irArriba(400); 
+*/
