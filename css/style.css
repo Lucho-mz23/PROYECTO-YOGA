@@ -58,7 +58,7 @@ h1:hover{
     top: 100px;
     display: flex;
     flex-direction: column;
-    color: rgb(15, 9, 9);
+    color: rgb(147, 147, 147);
     width: 65%;
     height: 100%;
     justify-content: center;
@@ -347,7 +347,7 @@ video{
 }
 
 .linea{
-    border-top: 5px solid #c08300;
+    border-top: 5px solid green;
     margin-bottom: 40px;
 }
 
