@@ -7,3 +7,7 @@ La pestaña "Tipos de Yoga" muestra un video con una invitación con enlace de c
 En la pestaña "Contacto" una imagen de fondo y un formulario, el mismo se valida con JS donde el usuario al tener un faltante de carácter o ingresa algún dato erróneo no permite el envió del mismo.
 La pestaña "Galería" está diseñada en forma de grilla, con efecto Ovelay y enlaces a contacto, Las imágenes fueron optimizadas por un compresor de imágenes web para una navegación fluida.
 
+### @ media queries ###
+Debido a que no cuento con monitor (trabajo con una tv 32 pulgadas) para realizar correctamente la configuración de @media debido a que las resoluciones que manejo no son las reales deformando completamente el diseño. Decidi aplicar los estilos a la dimensiones de un viewport de monitor estándar de 720p y una tablet 10".
+
+@media(min-width: 768px) y @media screen and (max-width:700px)   
